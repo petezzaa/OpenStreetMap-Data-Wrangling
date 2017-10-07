@@ -1,0 +1,11 @@
+References:
+https://stackoverflow.com/questions/740287/how-to-check-if-one-of-the-following-items-is-in-a-list
+https://www.tutorialspoint.com/python/string_replace.htm
+https://stackoverflow.com/questions/3728655/titlecasing-a-string-with-exceptions
+https://stackoverflow.com/questions/9222106/how-to-extract-information-between-two-unique-words-in-a-large-text-file
+https://stackoverflow.com/questions/10365225/extract-digits-in-a-simple-way-from-a-python-string
+http://pandas.pydata.org/pandas-docs/version/0.20/generated/pandas.read_sql_query.html#pandas.read_sql_query
+http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html
+https://www.openstreetmap.org/about
+https://www.openstreetmap.org/#map=8/19.950/-156.962
+https://discussions.udacity.com/t/display-files-and-their-sizes-in-directory/186741/2

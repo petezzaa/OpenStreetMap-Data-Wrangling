@@ -1,0 +1,5 @@
+Link to OSM Map Extract:
+https://mapzen.com/data/metro-extracts/your-extracts/7fd309dd6da8
+The data I decided to use is from the map of the Island of Hawai’i (otherwise known as the Big Island), in the State 
+of Hawaii, United States of America.  I grew up on the Big Island, so it is an area I am familiar with, which should
+make checking for errors in the data easier.
